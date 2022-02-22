@@ -1,3 +1,3 @@
 # KROK University-labs
 
-![1245](https://user-images.githubusercontent.com/90028606/155211000-41eefab3-286f-4a9a-b9f0-9b846b71a1f2.png)
+![1245](https://user-images.githubusercontent.com/90028606/155211222-5c67bc7a-bc6d-44c7-8211-edc8c8da3ee8.png)
