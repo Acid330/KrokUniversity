@@ -28,8 +28,9 @@
 >- <b>Task: Organize data input and format output of specified data types according to the option number. In the table. for each option there are requirements for the amount, type and format of data. Organize the output of each object using the % operator, the method str.format() and "f" lines.
  </b>
 </details>
+ 
 
-***
+***  
  
 
 |Year|Semester| |
