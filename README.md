@@ -7,7 +7,7 @@
  
  
 ># _1 Course 1 Semester_
->### Lab_01
+>- ### Lab_01
 <details>
 <summary><b>Подробнее</b></summary><p> </p>
  
@@ -19,7 +19,7 @@
 
 ***
  
->### Lab_02
+>- ### Lab_02
 <details>
 <summary><b>Подробнее</b></summary><p> </p>
  
@@ -33,7 +33,7 @@
 ***  
  
 
-|Year|Semester| |
+|Year|Semester||
 |:---:|:---:|:---:|
 |1|1|✅|
-|1|2|🔲|
+|1|2|🔲| 
