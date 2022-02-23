@@ -285,19 +285,91 @@ There is a bus moving in the city, and it takes and drop some people in each bus
 
 2. Write a Python program to get a string made of the first 2 and the last 2 chars from a given a string. If the string length is less than 2, return instead the empty string. 
 
-Sample Strings:
+- Sample Strings:
+  * 'w3resource' Expected Result : 'w3ce'
+  * 'w3' Expected Result : 'w3w3'
+  * 'w' Expected Result : Empty String
 
-'w3resource' Expected Result : 'w3ce'
-
-'w3' Expected Result : 'w3w3'
-
-'w' Expected Result : Empty String
-
-3. Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself. Sample String : 'restart' Expected Result : 'resta$t' 
+3. Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself.
+* Sample String : 'restart' 
+* Expected Result : 'resta$t' 
 
 4. Write a Python function to reverses a string if it's length is a multiple of 4.
 
-5. Write a Python program that accepts a comma separated sequence of words as input and prints the unique words in sorted form (alphanumerically). Sample Words : red, white, black, red, green, black Expected Result : black, green, red, white,red
+5. Write a Python program that accepts a comma separated sequence of words as input and prints the unique words in sorted form (alphanumerically). 
+* Sample Words : red, white, black, red, green, black 
+* Expected Result : black, green, red, white,red
+ 
+</details>
+
+***  
+
+>- ### Lab_05
+<details>
+<summary><b>Подробнее</b></summary><p> </p>
+ 
+>- <b>💻 Code:</b> _[Link](https://github.com/)_
+> 
+>- <b>👨‍💻 Task:</b>
+
+1. Write a program for calculating the factorial of a natural number n (the factorial of the number n is equal to 1*2* ...* n).
+
+2. Program. A sequence is given, which should be avenged from 2 to 20 words, in the skin language from 1 to 8 small letters, between common words - at least one gap, after the remaining word - a speck. Bring on the screen those words of the sequence, yakі vіdminnі vіd the rest of the word and the first letter of the word enter the new one more times.
+
+3. A word has been given. Designate the number of words that end with the letter r. 
+ 
+</details>
+
+***  
+
+>- ### Pract_01
+<details>
+<summary><b>Подробнее</b></summary><p> </p>
+ 
+>- <b>💻 Code:</b> _[Link](https://github.com/)_
+> 
+>- <b>👨‍💻 Task:</b>
+
+Task 1
+
+Implement a script which receives a string and replaces all " symbols with ' and vise versa. The script should return modified string.
+
+Task 2
+
+Write a script that checks whether a string is a palindrome or not.
+
+Returns 'True' if it is palindrome, else 'False'.
+
+To check your implementation you can use strings from here
+ 
+
+The script has to ignore special characters, whitespaces and different cases
+
+Task 3
+
+Implement a script which works the same as str.split
+
+Note:
+
+Usage of str.split method is prohibited
+
+Task 4
+
+Implement a script which returns the longest word in the given string.
+
+The word can contain any symbols except whitespaces (`,\n,\tand so on).
+
+If there are multiple longest words in the string with a same length return the word that occurs first.
+
+Task 5
+
+For a positive integer n calculate the result value, which is equal to the sum of the odd numbers of n.
+
+Example,
+
+n = 1234 result = 4
+
+n = 246 result = 0
  
 </details>
 
