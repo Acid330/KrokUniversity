@@ -123,7 +123,7 @@ Find the sum of the digits of a three-digit number
 <details>
 <summary><b>Подробнее</b></summary><p> </p>
  
->- <b>Code:</b> _[Link](https://github.com/)_
+>- <b>Code:</b> _[Link](https://github.com/Acid330/KrokUniversity/blob/main/pract_2.py)_
 > 
 >- <b>Task :</b> 
  
