@@ -9,7 +9,7 @@
 - *Start date: 01.09.2021*
 
 ***
-<img src="https://user-images.githubusercontent.com/90028606/155345374-991cbb50-3417-4069-8ee2-c7588bf36b3b.png" height="450" hspace="235">
+<img src="https://user-images.githubusercontent.com/90028606/155345374-991cbb50-3417-4069-8ee2-c7588bf36b3b.png" height="450" hspace="220">
  
 >- ### Lab_03
 <details>
