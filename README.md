@@ -9,10 +9,8 @@
 - *Start date: 01.09.2021*
 
 ***
+<img src="https://user-images.githubusercontent.com/90028606/155345374-991cbb50-3417-4069-8ee2-c7588bf36b3b.png" height="450" hspace="280">
  
- 
- 
-># _1 Course 1 Semester_
 >- ### Lab_03
 <details>
 <summary><b>Подробнее</b></summary><p> </p>
@@ -100,26 +98,28 @@
 >- <b>👨‍💻 Task: </b>
  
 <b>Task #1:</b> Construct these numeric values:
-Integer zero
-Floating point zero
-Integer one hundred and one
-Floating point one thousand
-Floating point one thousand using scientific notation
-Create a positive integer, a negative integer, and zero. Assign them to variables
-Write several arithmetic expressions. Bind the values to variables. Use a variety of operators, e.g. +, -, /, *, etc. Use parentheses to control operator scope.
-Create several floats and assign them to variables.
-Write several arithmetic expressions containing your float variables.
-Write several expressions using mixed arithmetic (integers and floats).
-Obtain a float as a result of division of one integer by another; do so by explicitly converting one integer to a float.
+ 
+- Integer zero
+- Floating point zero
+- Integer one hundred and one
+- Floating point one thousand
+- Floating point one thousand using scientific notation
+- Create a positive integer, a negative integer, and zero. Assign them to variables
+- Write several arithmetic expressions. Bind the values to variables. 
+- Use a variety of operators, e.g. +, -, /, *, etc. Use parentheses to control operator scope.
+- Create several floats and assign them to variables.
+- Write several arithmetic expressions containing your float variables.
+- Write several expressions using mixed arithmetic (integers and floats).
+- Obtain a float as a result of division of one integer by another; do so by explicitly converting one integer to a float.
 
 <b>Task #2:</b> Type Conversation
-Construct an integer from the string "123"
-Construct a float from the integer 123
-Construct an integer from the float 12.345
+- Construct an integer from the string "123"
+- Construct a float from the integer 123
+- Construct an integer from the float 12.345
  
 <b>Task #3:</b> Digits of a Number
-Write a Python-script that detects the last 4 digits of a credit card.
-Find the sum of the digits of a three-digit number
+- Write a Python-script that detects the last 4 digits of a credit card.
+- Find the sum of the digits of a three-digit number
 </details>
  
 
@@ -134,26 +134,45 @@ Find the sum of the digits of a three-digit number
 >- <b>👨‍💻 Task :</b> 
  
 <b>Task #1:</b>
-Assume that we define x, y, and z to refer to int values. Write an expression that computes whether...
+
+- Assume that we define x, y, and z to refer to int values. Write an expression that computes whether...
+
 ...x is odd
+
 ...x is a multiple of 20 (e.g., 20, 40, 60, ...)
-Assume that zero is a positive number. Write an expression that computes whether...
+
+- Assume that zero is a positive number. Write an expression that computes whether...
+ 
 ...x and y are both positive
+
 ...x and y have the same sign (both are positive or both are negative)
+ 
 ...x and y have different signs (one is positive and one is negative)
-Write an expression that computes whether...
+ 
+- Write an expression that computes whether...
+ 
 ...all three names (x, y, and z) are bound to equal values
+ 
 ...all three names (x, y, and z) are bound to different values (none the same)
+ 
 ...two variables store the same value, but the third one is different
  
 <b>Task #2:</b>
-Assume that we specify two points in space by definint the x and y coordinate of each using x1, y1, x2, and y2 all which are float. Write an expression that computes...
+ 
+- Assume that we specify two points in space by definint the x and y coordinate of each using x1, y1, x2, and y2 all which are float. Write an expression that computes...
+ 
 ...the distance between these points
+ 
 ...the slope of the line from the first point to the second
+ 
 ...whether both points lie on the same line from the origin
+ 
 ...whether the first point is above the second
+ 
 ...what quadrant the first point lies in (1st, 2nd, 3rd, or 4th)
+ 
 ...whether the two points lie in the same quadrant
+ 
  </b>
 </details>
  
@@ -322,7 +341,7 @@ There is a bus moving in the city, and it takes and drop some people in each bus
 
 ***  
 
->- ### Pract_01
+>- ### Pract_07
 <details>
 <summary><b>Подробнее</b></summary><p> </p>
  
@@ -330,12 +349,12 @@ There is a bus moving in the city, and it takes and drop some people in each bus
 > 
 >- <b>👨‍💻 Task:</b>
 
-Task 1
+<b>Task #1:</b>
 
 Implement a script which receives a string and replaces all " symbols with ' and vise versa. The script should return modified string.
 
-Task 2
-
+<b>Task #2:</b>
+ 
 Write a script that checks whether a string is a palindrome or not.
 
 Returns 'True' if it is palindrome, else 'False'.
@@ -345,15 +364,11 @@ To check your implementation you can use strings from here
 
 The script has to ignore special characters, whitespaces and different cases
 
-Task 3
+<b>Task #3:</b>
 
 Implement a script which works the same as str.split
 
-Note:
-
-Usage of str.split method is prohibited
-
-Task 4
+<b>Task #4:</b>
 
 Implement a script which returns the longest word in the given string.
 
@@ -361,11 +376,11 @@ The word can contain any symbols except whitespaces (`,\n,\tand so on).
 
 If there are multiple longest words in the string with a same length return the word that occurs first.
 
-Task 5
+ <b>Task #5:</b>
 
 For a positive integer n calculate the result value, which is equal to the sum of the odd numbers of n.
 
-Example,
+Example
 
 n = 1234 result = 4
 
@@ -375,14 +390,10 @@ n = 246 result = 0
 
 ***  
 
-|Year|Semester||
-|:---:|:---:|:---:|
-|1|1|[✅](https://github.com/Acid330/KrokUniversity/edit/main/README.md#1-course-1-semester)|
-|1|2|🔲| 
- 
- 
 
- 
+
+
+
   >- ### Pract_01
 <details>
 <summary><b>Подробнее</b></summary><p> </p>
@@ -395,5 +406,3 @@ n = 246 result = 0
 </details>
 
 ***  
-
-🟧🟥🟨🟩🟡🟦🟢💻🖥👨‍💻 
