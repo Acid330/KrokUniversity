@@ -5,9 +5,9 @@ print(max(int(x1), int(x2), int(x3), int(x4)))
 print("\n""#2", "\n")
 x = int(input("Год: "))
 if x % 4 == 0:
-    print("Высокостный год")
+    print("Высокостный год ")
 else:
-    print("не высокостный год")
+    print("не высокостный год ")
 
 print("\n""#3", "\n")
 a = int(input("Сторона a: "))
