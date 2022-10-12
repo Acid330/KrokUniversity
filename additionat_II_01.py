@@ -1,3 +1,6 @@
+#Var №7
+
+
 class Car:
 
     def __init__(self, speed=5, time=10):
