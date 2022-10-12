@@ -1,9 +1,9 @@
 class Car:
 
-    def __init__(self, speed=5, time=20):
+    def __init__(self, speed=5, time=10):
         self.distance = None
         self.speed = speed
-        self.time = time
+        self.time = time*60
 
     def way(self):
         self.distance = self.speed * self.time
