@@ -22,7 +22,7 @@ class Rational:
         return self.a / self.b
 
 
-rt = Rational(10, 16)
+rt = Rational()
 print(rt.fraction(), rt.point(), "\n")
 
 
