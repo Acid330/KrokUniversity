@@ -27,15 +27,19 @@ print(rt.fraction(), rt.point(), "\n")
 
 
 # 2
-
-
 class Rectangle:
 
+    min_size=0
+    max_size=100
+
+    @classmethod
+    def validate(cls, arg):
+        return cls.min_size < arg <= cls.max_size
+
     def __init__(self, width=10, height=5):
-        if width > 100 or height > 100 or width <= 0 or height <= 0:
-            raise Exception("width or height more then 100 or less then 1")
-        self.width = width
-        self.height = height
+        if self.validate(width) and self.validate(height):
+            self.width = width
+            self.height = height
 
     def perimeter(self):
         return 2 * self.width + 2 * self.height
