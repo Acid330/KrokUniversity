@@ -62,7 +62,7 @@ class Stat:
             self.tatoo = tatoo
             self.color_hair = color_hair
         else:
-            raise ValueError("Wrong sex")
+            raise ("Wrong sex")
 
     def info(self):
         if self.__class__.__name__ == "Argonianine":
